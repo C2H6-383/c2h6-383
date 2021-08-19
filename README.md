@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Ethan</h1>
 <h3 align="center">A developer from Germany</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=c2h6-383" alt="c2h6-383" /></a> </p>
+<p align="center"> <a href="https://github.com/C2H6-383"><img src="https://github-profile-trophy.vercel.app/?username=c2h6-383&theme=darkhub" alt="c2h6-383" /></a> </p>
 
 - 🌱 I’m currently learning **gsap, vue and more**
 
