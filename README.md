@@ -8,13 +8,11 @@ Here are some ideas to get you started:
 
 <p align="center"> <a href="https://github.com/C2H6-383"><img src="https://github-profile-trophy.vercel.app/?username=c2h6-383&theme=darkhub" alt="c2h6-383" /></a> </p>
 
-- 🌱 I’m currently learning **gsap, vue and c++**
+- 🌱 I’m currently learning **Java and C++**
 
 - 📫contact me at **github\[at\]ethan-finley\[dot\]de**
 
 - 📄 Learn more about me at [https://ethan-finley.de/](https://ethan-finley.de/)
-
-- ⚡ Fun fact about me: **I don't really like Coffee...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
