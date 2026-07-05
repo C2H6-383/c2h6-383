@@ -5,8 +5,6 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Ethan</h1>
 
-<p align="center"> <a href="https://github.com/C2H6-383"><img src="https://github-profile-trophy.vercel.app/?username=c2h6-383&theme=darkhub" alt="c2h6-383" /></a> </p>
-
 - 🌱 I’m currently learning **all the cool languages**
 
 - 📫 Contact me at **github\[at\]ethan-finley\[dot\]de**
